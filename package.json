@@ -1,0 +1,49 @@
+{
+  "_from": "@dabeng/ng-orgchart@^1.0.2",
+  "_id": "@dabeng/ng-orgchart@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-yOrgb+63uksLcN+ItxtckNFrKki8Ef5rZEGfp+4Gh0WpAQdswJBVVg1faE6NZlpCn3/OSuo2HqwUyZm1Qo+pVQ==",
+  "_location": "/@dabeng/ng-orgchart",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@dabeng/ng-orgchart@^1.0.2",
+    "name": "@dabeng/ng-orgchart",
+    "escapedName": "@dabeng%2fng-orgchart",
+    "scope": "@dabeng",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@dabeng/ng-orgchart/-/ng-orgchart-1.0.2.tgz",
+  "_shasum": "cc4b93d24a95f03b8cbb5ca6c194d687503f184f",
+  "_spec": "@dabeng/ng-orgchart@^1.0.2",
+  "_where": "E:\\dev\\projects\\bsh-soms",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "organization chart component based angular",
+  "es2015": "fesm2015/dabeng-ng-orgchart.js",
+  "esm2015": "esm2015/dabeng-ng-orgchart.js",
+  "esm5": "esm5/dabeng-ng-orgchart.js",
+  "fesm2015": "fesm2015/dabeng-ng-orgchart.js",
+  "fesm5": "fesm5/dabeng-ng-orgchart.js",
+  "main": "bundles/dabeng-ng-orgchart.umd.js",
+  "metadata": "dabeng-ng-orgchart.metadata.json",
+  "module": "fesm5/dabeng-ng-orgchart.js",
+  "name": "@dabeng/ng-orgchart",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "sideEffects": false,
+  "typings": "dabeng-ng-orgchart.d.ts",
+  "version": "1.0.2"
+}
