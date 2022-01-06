@@ -38,7 +38,7 @@
   "main": "bundles/dabeng-ng-orgchart.umd.js",
   "metadata": "dabeng-ng-orgchart.metadata.json",
   "module": "fesm5/dabeng-ng-orgchart.js",
-  "name": "@dabeng/ng-orgchart",
+  "name": "ng-orgchart",
   "peerDependencies": {
     "@angular/common": "^8.0.3",
     "@angular/core": "^8.0.3"
